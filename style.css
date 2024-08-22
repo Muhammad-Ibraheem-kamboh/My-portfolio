@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    font-family: sans-serif;
+    
+}
+nav{
+    background-color: #413d3d;
+    height: 40px;
+    
+}
+nav ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0px 0px 0px 40px;
+    display: flex;
+}
+nav ul a{
+    text-decoration: none;
+    color: wheat;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#heading{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#id100{
+    padding-left: 10px;
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid black;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+tr,td ,th{
+border: 2px solid black;
+}
+#proj{
+    margin: 20px 0px 0px 10px;
+}
+#skil{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 14px;
+}
+#mesg{
+    height: 60px;
+    width: 400px;
+}
+input{
+    margin-left: 10px;
+}
+#contact{
+    margin: 20px 0px 0px 10px;
+}
